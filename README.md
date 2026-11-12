@@ -42,10 +42,11 @@ la app.
 
 | Campo | Obligatorio | Formato y notas |
 |---|---|---|
-| `id` | Sí | Texto único. **No lo cambies una vez publicado**: los favoritos de la gente se guardan por id. Una actividad sin id no se muestra. |
+| `id` | Sí | Texto único. **No lo cambies una vez publicado**: los favoritos de la gente se guardan por id. |
 | `day` | Sí | Día de la semana que corresponde a `date`, con mayúscula y tilde: `Lunes`, `Martes`, `Miércoles`, `Jueves`, `Viernes`, `Sábado`, `Domingo`. |
 | `date` | Sí | `dd/MM/yyyy`. Es el **día de fiesta**, no el del calendario (ver la regla de la noche). |
 | `time` | Sí | `HH:mm` en formato 24 h. |
+| `end` | No | Hora de fin, `HH:mm`. Con ella, la actividad sale "En curso" / "Ahora" hasta esa hora; sin ella, durante 30 minutos desde el inicio. Un fin de madrugada es del día siguiente: `"time": "23:30", "end": "02:00"`. |
 | `title` | Sí | Nombre de la actividad. |
 | `place` | No | Lugar. |
 | `description` | No | Texto que se ve al desplegar la ficha. |
@@ -91,9 +92,17 @@ Las versiones de la app que no los conocen simplemente los ignoran.
 3. Si añades una organización nueva y una actividad suya, guarda **primero**
    `organizations.json` y **después** `events.json`.
 
-Si un fichero queda con un error de formato, o una actividad apunta a una organización
-que no existe, la app no aplica los cambios y sigue con los datos anteriores hasta que se
-corrija.
+La app comprueba los dos ficheros antes de usarlos. **No aplica los cambios**, y sigue con
+los datos anteriores hasta que se corrijan, si:
+
+- algún fichero no es un JSON correcto (una coma o unas comillas de más o de menos);
+- no hay ninguna actividad;
+- una actividad u organización no tiene `id` o lo repite;
+- una fecha no tiene el formato `dd/MM/yyyy`;
+- una actividad apunta en `organicers` a una organización que no existe.
+
+Una hora que no se entiende, un día de la semana que no cuadra con la fecha o una
+organización sin nombre no bloquean la actualización.
 
 Cada cambio queda en el historial (*History*), así que cualquier versión anterior se
 puede recuperar.
