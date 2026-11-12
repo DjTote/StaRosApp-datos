@@ -1,0 +1,200 @@
+{
+    "organizations": [
+        {
+            "id": "1",
+            "name": "Ayuntamiento de Venta de Baños",
+            "type": "PUBLICO",
+            "address": "Plaza Constitucion 1, 34210 Venta de Baños, Palencia",
+            "year": "1978"
+        },
+        {
+            "id": "2",
+            "name": "Consejo de Peñas",
+            "type": "PUBLICO",
+            "address": "Plaza Constitucion 1, 34210 Venta de Baños, Palencia",
+            "year": "2000"
+        },
+        {
+            "id": "3",
+            "name": "Concejalía de Mayores",
+            "type": "PUBLICO",
+            "address": "Plaza Constitucion 1",
+            "year": "1978 "
+        },
+        {
+            "id": "4",
+            "name": "Concejalía de Deportes",
+            "type": "PUBLICO",
+            "address": "Plaza Constitucion 1",
+            "year": "1978 "
+        },
+        {
+            "id": "5",
+            "name": "Concejalía de Cultura",
+            "type": "PUBLICO",
+            "address": "Plaza Constitucion 1",
+            "year": "1978"
+        },
+        {
+            "id": "6",
+            "name": "Parroquia local",
+            "type": "ASOCIACION",
+            "address": "Plaza de Santa Rosa 4",
+            "year": "1952"
+        },
+        {
+            "id": "7",
+            "name": "CF Venta de Baños",
+            "type": "ASOCIACION",
+            "address": "Campo de fútbol Amador Alonso",
+            "year": "2007"
+        },
+        {
+            "id": "8",
+            "name": "Museo del Ferrocarril",
+            "type": "ASOCIACION",
+            "address": "Calle La Briquetera s/n",
+            "year": "2023"
+        },
+        {
+            "id": "9",
+            "name": "Peña Los Mochilones",
+            "type": "PEÑA",
+            "address": "Calle Barrigón",
+            "year": ""
+        },
+        {
+            "id": "10",
+            "name": "Peña La Tarrancha",
+            "type": "PEÑA",
+            "address": "Calle Recesvinto",
+            "year": "2011"
+        },
+        {
+            "id": "11",
+            "name": "Peña Nove-Nove",
+            "type": "PEÑA",
+            "address": "Avenida de la Estación. (Esquina Calle Juan Sebastián el Cano)",
+            "year": ""
+        },
+        {
+            "id": "12",
+            "name": "Peña Palomo Viudo",
+            "type": "PEÑA",
+            "address": "Calle Alfonso X",
+            "year": ""
+        },
+        {
+            "id": "13",
+            "name": "Peña Kalisutra",
+            "type": "PEÑA",
+            "address": "Calle Alfonso X",
+            "year": ""
+        },
+        {
+            "id": "14",
+            "name": "Peña Bé-Bé",
+            "type": "PEÑA",
+            "address": "Calle Gravina",
+            "year": ""
+        },
+        {
+            "id": "15",
+            "name": "Peña Enigma-Druidas",
+            "type": "PEÑA",
+            "address": "Plaza España",
+            "year": ""
+        },
+        {
+            "id": "16",
+            "name": "Peña Drinkkings",
+            "type": "PEÑA",
+            "address": "Calle Vacceos",
+            "year": ""
+        },
+        {
+            "id": "17",
+            "name": "Peña Desakato",
+            "type": "PEÑA",
+            "address": "Calle Carmen",
+            "year": ""
+        },
+        {
+            "id": "18",
+            "name": "Peña Los Celtas",
+            "type": "PEÑA",
+            "address": "Calle Zorrilla",
+            "year": ""
+        },
+        {
+            "id": "19",
+            "name": "Peña El Gato Negro",
+            "type": "PEÑA",
+            "address": "Calle Juana de Arco",
+            "year": ""
+        },
+        {
+            "id": "20",
+            "name": "Peña El Mazo",
+            "type": "PEÑA",
+            "address": "Calle Felipe II",
+            "year": ""
+        },
+        {
+            "id": "21",
+            "name": "Peña Los Calaveras",
+            "type": "PEÑA",
+            "address": "Calle Isaac Peral",
+            "year": ""
+        },
+        {
+            "id": "22",
+            "name": "Peña Minerva",
+            "type": "PEÑA",
+            "address": "Plaza España",
+            "year": ""
+        },
+        {
+            "id": "23",
+            "name": "Peña Deskontrol",
+            "type": "PEÑA",
+            "address": "Calle Pablo Picasso",
+            "year": ""
+        },
+        {
+            "id": "24",
+            "name": "Peña El Atracón",
+            "type": "PEÑA",
+            "address": "Calle Churruca",
+            "year": ""
+        },
+        {
+            "id": "25",
+            "name": "Peña El Garito",
+            "type": "PEÑA",
+            "address": "Calle Velazquez",
+            "year": ""
+        },
+        {
+            "id": "26",
+            "name": "AVENFO",
+            "type": "ASOCIACION",
+            "address": "",
+            "year": ""
+        },
+        {
+            "id": "27",
+            "name": "AVENFER",
+            "type": "ASOCIACION",
+            "address": "",
+            "year": ""
+        },
+        {
+            "id": "28",
+            "name": "Club Ajedrez Venta de Baños",
+            "type": "ASOCIACION",
+            "address": "",
+            "year": ""
+        }
+    ]
+}

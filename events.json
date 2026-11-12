@@ -1,0 +1,907 @@
+{
+    "events": [
+        {
+            "id": "1",
+            "day": "Viernes",
+            "date": "14/08/2026",
+            "time": "11:00",
+            "title": "Torneo de vóley mixto 3x3",
+            "organizer": "Peña El Atracón",
+            "organicers": [
+                {
+                    "id": 24
+                }
+            ],
+            "place": "Polideportivo municipal 'Amador Alonso'",
+            "description": "Torneo de vóley mixto 3x3. Bases en cartel aparte."
+        },
+        {
+            "id": "2",
+            "day": "Domingo",
+            "date": "08/11/2026",
+            "time": "10:15",
+            "title": "X Trofeo Santa Rosa de Ajedrez",
+            "organizer": "Club Ajedrez Venta de Baños y Concejalía de Deportes",
+            "organicers": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 28
+                }
+            ],
+            "place": "Pabellón Municipal de Deportes",
+            "description": "X Trofeo Santa Rosa de Ajedrez. Bases en cartel aparte."
+        },
+        {
+            "id": "54",
+            "day": "Domingo",
+            "date": "08/11/2026",
+            "time": "20:30",
+            "title": "X Trofeo Santa Rosa de Ajedrez",
+            "organizer": "Club Ajedrez Venta de Baños y Concejalía de Deportes",
+            "organicers": [
+                {
+                    "id": 4
+                },
+                {
+                    "id": 28
+                }
+            ],
+            "place": "Pabellón Municipal de Deportes",
+            "description": "X Trofeo Santa Rosa de Ajedrez. Bases en cartel aparte."
+        },        
+        {
+            "id": "3",
+            "day": "Lunes",
+            "date": "09/11/2026",
+            "time": "14:00",
+            "title": "Comida de fraternidad de peñas",
+            "organizer": "Consejo de Peñas",
+            "organicers": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 16
+                },
+                {
+                    "id": 20
+                }
+            ],
+            "place": "Frontón municipal",
+            "description": "Comida de fraternidad de peñas a cargo de Peña los Drinkkings y Peña el Mazo."
+        },
+        {
+            "id": "4",
+            "day": "Lunes",
+            "date": "09/11/2026",
+            "time": "17:00",
+            "title": "Gran Lanzamiento de Zapatilla",
+            "organizer": "Peña Nove-Nove",
+            "organicers": [
+                {
+                    "id": 11
+                }
+            ],
+            "place": "Frontón municipal",
+            "description": "Tras la comida de fraternidad, Gran Lanzamiento de Zapatilla. ¡Lleva tu zapatilla...o chancla! ¡Tu decides!. Bases en cartel aparte."
+        },
+        {
+            "id": "5",
+            "day": "Lunes",
+            "date": "09/11/2026",
+            "time": "19:30",
+            "title": "Torneo fútbol Santa Rosa: C.F. Venta de Baños - A.D. Dueñas",
+            "organizer": "C.F. Venta de Baños y Concejalía de Deportes",
+            "organicers": [
+                {
+                    "id": 7
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "place": "Polideportivo municipal 'Amador Alonso'",
+            "description": "Torneo fútbol Santa Rosa. C.F. Venta de Baños - A.D. Dueñas. Anima a tu equipo y renueva el carnet de socio."
+        },
+        {
+            "id": "6",
+            "day": "Lunes",
+            "date": "09/11/2026",
+            "time": "20:00",
+            "title": "Pregón literario 2026: Pilar Carballada Achalandabaso",
+            "organizer": "Peña El Palomo Viudo y Concejalía de Cultura",
+            "organicers": [
+                {
+                    "id": 12
+                },
+                {
+                    "id": 5
+                }
+            ],
+            "place": "Salon de Actos de la Briquetera",
+            "description": "A cargo de Pilar Carballada Achalandabaso. Nacida en Venta de Baños, donde residió sus primeros 20 años de su vida. Actualmente reside en Granada."
+        },
+        {
+            "id": "7",
+            "day": "Lunes",
+            "date": "09/11/2026",
+            "time": "22:30",
+            "title": "Fotovelada",
+            "organizer": "AVENFO y Concejalía de Cultura",
+            "organicers": [
+                {
+                    "id": 26
+                },
+                {
+                    "id": 5
+                }
+            ],
+            "place": "Frontón municipal",
+            "description": "Fotovelada."
+        },
+        {
+            "id": "8",
+            "day": "Miércoles",
+            "date": "11/11/2026",
+            "time": "12:00",
+            "title": "Homenaje a nuestros mayores",
+            "organizer": "Concejalía de Mayores",
+            "organicers": [
+                {
+                    "id": 3
+                }
+            ],
+            "place": "Centro social de mayores",
+            "description": "Homenaje a nuestros mayores. Con la actuación del Grupo Seducción."
+        },
+        {
+            "id": "9",
+            "day": "Miércoles",
+            "date": "11/11/2026",
+            "time": "17:30",
+            "title": "XVI Concurso de tortillas",
+            "organizer": "Peña El Kalisutra",
+            "organicers": [
+                {
+                    "id": 13
+                }
+            ],
+            "place": "Pabellón Municipal de Deportes",
+            "description": "¿Crees que haces la mejor tortilla?. Participa en el XVI Concurso de tortillas. Bases en programa aparte. Al finalizar el concurso cada participante podrá recoger su tortilla."
+        },
+        {
+            "id": "10",
+            "day": "Miércoles",
+            "date": "11/11/2026",
+            "time": "19:00",
+            "title": "Pregón popular y presentación de rosas, rositas, maquinistas y minimaquinistas",
+            "organizer": "Ayuntamiento de Venta de Baños y Consejo de Peñas",
+            "organicers": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "place": "Pabellón Municipal de Deportes",
+            "description": "A cargo de Reyes Maroto. Ministra de Industria, Comercio y Turismo entre 2018 y 2023. Actualmente concejala y portavoz en el Ayuntamiento de Madrid."
+        },
+        {
+            "id": "11",
+            "day": "Miércoles",
+            "date": "11/11/2026",
+            "time": "22:00",
+            "title": "Musical Essencia",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Musica pre-fiestas antes del chupinazo."
+        },
+        {
+            "id": "12",
+            "day": "Jueves",
+            "date": "12/11/2026",
+            "time": "13:00",
+            "title": "Vermú Prefiestas",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Desde el centro de mayores hasta la Plaza Puerta del Sol",
+            "description": "Con Charanga Desconcierto, ruta desde el Centro de mayores hasta la Plaza Puerta del Sol."
+        },
+        {
+            "id": "13",
+            "day": "Jueves",
+            "date": "12/11/2026",
+            "time": "17:30",
+            "title": "Photocall",
+            "organizer": "Ayuntamiento de Venta de Baños y Consejo de Peñas",
+            "organicers": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "place": "Plaza del Ayuntamiento",
+            "description": "Photocall para todas las peñas. (17:30 peñas privadas, 18:00 peñas Consejo)."
+        },
+        {
+            "id": "14",
+            "day": "Jueves",
+            "date": "12/11/2026",
+            "time": "18:30",
+            "title": "Chupinazo y desfile de peñas",
+            "organizer": "Ayuntamiento de Venta de Baños y Consejo de Peñas",
+            "organicers": [
+                {
+                    "id": 1
+                },
+                {
+                    "id": 2
+                }
+            ],
+            "place": "Desde la plaza del Ayuntamiento hasta la calle Coulounieix Chamiers",
+            "description": "Chupinazo y desfile con Charangas Desconcierto, La Fanny y Los Duendes. Desde la plaza del Ayuntamiento hasta la calle Coulounieix Chamiers."
+        },
+        {
+            "id": "15",
+            "day": "Jueves",
+            "date": "12/11/2026",
+            "time": "21:00",
+            "title": "¡GariParty!",
+            "organizer": "Peña El Garito",
+            "organicers": [
+                {
+                    "id": 25
+                }
+            ],
+            "place": "Peña El Garito (Calle Velázquez)",
+            "description": "Tras el desfile, GariParty en la peña El Garito (C/Velázquez). Con DJ Moski. Ven a disfrutar y a pasar un buen rato."
+        },
+        {
+            "id": "16",
+            "day": "Jueves",
+            "date": "12/11/2026",
+            "time": "21:00",
+            "title": "¡AgostoFest!",
+            "organizer": "Peña Bé-Bé",
+            "organicers": [
+                {
+                    "id": 14
+                }
+            ],
+            "place": "Peña Bé-Bé (Calle Gravina)",
+            "description": "Con cerveza y perrito caliente para todo el mundo, amenizado con música de charanga en la calle Gravina."
+        },
+        {
+            "id": "17",
+            "day": "Jueves",
+            "date": "12/11/2026",
+            "time": "22:00",
+            "title": "Festival de DJs",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Sesiones de DJ Paco, Pablo García, Hugo Trece, DJ Redondo y MarQ."
+        },
+        {
+            "id": "18",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "10:00",
+            "title": "Juegos populares",
+            "organizer": "Consejo de Peñas, Peña Los Drinkkings y Concejalía de Deportes",
+            "organicers": [
+                {
+                    "id": 2
+                },
+                {
+                    "id": 4
+                },
+                {
+                    "id": 16
+                }
+            ],
+            "place": "Frontón municipal",
+            "description": "Juegos populares en el frontón organizado con la colaboracion de Peña Los Drinkkings."
+        },
+        {
+            "id": "19",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "13:30",
+            "title": "Matinée: Mala Infancia",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Avenida Palencia",
+            "description": "Primera Matinée con el grupo Mala Infancia."
+        },
+        {
+            "id": "20",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "17:00",
+            "title": "Campeonato de mus rapido",
+            "organizer": "Peña Los Celtas",
+            "organicers": [
+                {
+                    "id": 18
+                }
+            ],
+            "place": "Centro Social de Mayores",
+            "description": "Campeonato de mus rapido. A 3 partidas, exentos solo 1 vez. Premios para los 3 primeros clasificados."
+        },
+        {
+            "id": "21",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "17:00",
+            "title": "Desakathlon: Misión pelucas",
+            "organizer": "Peña El Desakato",
+            "organicers": [
+                {
+                    "id": 17
+                }
+            ],
+            "place": "Parque de Las Flores",
+            "description": "¿Estás listo para el reto MAS LOCO?. ¡Ponte la peluca y a darlo todo!. Una Gymkhana llena de pruebas divertidas. Bases en cartel aparte."
+        },
+        {
+            "id": "22",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "18:00",
+            "title": "Parque infantil",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Frontón municipal",
+            "description": "Parque infantil."
+        },
+        {
+            "id": "23",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "19:00",
+            "title": "Tirada de sidra y bollo preñado",
+            "organizer": "Peñas Kalisutra y Enigma-Druidas",
+            "organicers": [
+                {
+                    "id": 13
+                },
+                {
+                    "id": 15
+                }
+            ],
+            "place": "Plaza del Ayuntamiento",
+            "description": "Tirada de sidra y bollo preñado amenizado con Charanga Los Chiguitos."
+        },
+        {
+            "id": "24",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "21:00",
+            "title": "Actuación musical: Álvaro Medrano",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Actuación musical con Álvaro Medrano."
+        },
+        {
+            "id": "25",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "23:30",
+            "title": "XII Bingo nocturno",
+            "organizer": "Peña La Tarrancha",
+            "organicers": [
+                {
+                    "id": 10
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "XII Bingo nocturno. Los cartones se repartirán previamente de forma gratuita."
+        },
+        {
+            "id": "26",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "00:15",
+            "title": "Orquesta La Resistencia",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Orquesta La Resistencia."
+        },
+        {
+            "id": "27",
+            "day": "Viernes",
+            "date": "13/11/2026",
+            "time": "04:30",
+            "title": "Discomóvil: DANIGON (horario aproximado)",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Al finalizar la orquesta, discomóvil con DANIGON."
+        },
+        {
+            "id": "28",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "08:00",
+            "title": "Desayunos Minerva",
+            "organizer": "Peña Minerva",
+            "organicers": [
+                {
+                    "id": 22
+                }
+            ],
+            "place": "Plaza España",
+            "description": "Tradicional desayunos Minerva: huevos y bacon para reponer energías."
+        },
+        {
+            "id": "29",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "12:30",
+            "title": "Vermut Calaveras",
+            "organizer": "Peña Los Calaveras",
+            "organicers": [
+                {
+                    "id": 21
+                }
+            ],
+            "place": "Peña Los Calaveras, Calle Isaac Peral",
+            "description": "Tradicional vermut Calaveras."
+        },
+        {
+            "id": "30",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "13:30",
+            "title": "Matinée: Wateke",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Plaza del Ayuntamiento",
+            "description": "Segunda Matinée con el grupo Wateke."
+        },
+        {
+            "id": "31",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "17:30",
+            "title": "Juego del martillo de Thor",
+            "organizer": "Peña El Deskontrol",
+            "organicers": [
+                {
+                    "id": 23
+                }
+            ],
+            "place": "Calle Pablo Picasso",
+            "description": "Por equipos de 3 y relevos, clava la punta en menos de 1 minuto. ¡Ven a darlo todo!."
+        },
+        {
+            "id": "32",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "18:00",
+            "title": "XXXVIII Festival de Pelota Mano",
+            "organizer": "Peña El Palomo Viudo y Concejalía de Deportes",
+            "organicers": [
+                {
+                    "id": 12
+                },
+                {
+                    "id": 4
+                }
+            ],
+            "place": "Frontón municipal",
+            "description": "XXXVIII Festival de Pelota Mano."
+        },
+        {
+            "id": "33",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "19:00",
+            "title": "1ª Tirada de Limonada",
+            "organizer": "Peña La Tarrancha, Peña Desakato, Peña Kalisutra, Peña El Mazo, Peña Los Calaveras y Peña El Garito",
+            "organicers": [
+                {
+                    "id": 10
+                },
+                {
+                    "id": 17
+                },
+                {
+                    "id": 13
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 21
+                },
+                {
+                    "id": 25
+                }
+            ],
+            "place": "Inicio en la peña La Tarrancha (Calle Recesvinto)",
+            "description": "Limonada para todos los públicos amenizada con Charanga Los Chiguitos (lado del Pabellón Municipal de Deportes). Ruta por las peñas colaboradoras degustando limonadas: Peña La Tarrancha, Peña Desakato, Peña Kalisutra, Peña El Mazo, Peña Los Calaveras y Peña El Garito."
+        },
+        {
+            "id": "34",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "22:00",
+            "title": "Monólogos con Sergio Encinas y JJ Vaquero",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Pabellón Municipal de Deportes",
+            "description": "Monólogos con Sergio Encinas y JJ Vaquero. Entrada con invitación gratuita hasta completar aforo. Información de retirada de invitaciones en cartel aparte."
+        },
+        {
+            "id": "35",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "00:00",
+            "title": "Gran colección de fuegos artificiales",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Polideportivo municipal 'Amador Alonso'",
+            "description": "Gran colección de fuegos artificiales. Desde el polideportivo municipal Amador Alonso."
+        },
+        {
+            "id": "36",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "00:30",
+            "title": "Orquesta Génesis",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Orquesta Génesis."
+        },
+        {
+            "id": "37",
+            "day": "Sábado",
+            "date": "14/11/2026",
+            "time": "04:30",
+            "title": "Discomóvil: Adrián Martín (horario aproximado)",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Al finalizar la orquesta, discomóvil con Adrián Martín."
+        },
+        {
+            "id": "38",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "12:30",
+            "title": "Misa en honor a Santa Rosa de Lima",
+            "organizer": "Parroquia local",
+            "organicers": [
+                {
+                    "id": 6
+                }
+            ],
+            "place": "Iglesia de Santa Rosa",
+            "description": "Misa en honor de la patrona venteña Santa Rosa de Lima. En la iglesia de Santa Rosa."
+        },
+        {
+            "id": "39",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "13:15",
+            "title": "XX Juntada de Dulzaineros",
+            "organizer": "Concejalía de Cultura",
+            "organicers": [
+                {
+                    "id": 5
+                }
+            ],
+            "place": "Desfile desde la iglesia de Santa Rosa hasta el Parque de Las Flores",
+            "description": "XX Juntada de Dulzaineros. Desfile desde la iglesia de Santa Rosa hasta el Parque de Las Flores."
+        },
+        {
+            "id": "40",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "14:00",
+            "title": "Tradicional degustación de la vaquilla",
+            "organizer": "Peñas Gato Negro, Palomo Viudo, Bé-Bé, Celtas, El Mazo y Minerva",
+            "organicers": [
+                {
+                    "id": 19
+                },
+                {
+                    "id": 12
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 18
+                },
+                {
+                    "id": 20
+                },
+                {
+                    "id": 22
+                }
+            ],
+            "place": "Parque de las Flores",
+            "description": "Tradicional degustación de la vaquilla para todos los públicos. Cocinan las peñas Gato Negro, Palomo Viudo, Bé-Bé, Celtas, El Mazo y Minerva."
+        },
+        {
+            "id": "41",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "17:00",
+            "title": "Dibujo infantil",
+            "organizer": "Peña El Mazo",
+            "organicers": [
+                {
+                    "id": 20
+                }
+            ],
+            "place": "Gradas del polideportivo municipal 'Amador Alonso'",
+            "description": "De mayor yo quiero....Concurso de dibujo infantil. Bases en las RRSS de la Peña el Mazo."
+        },
+        {
+            "id": "42",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "19:00",
+            "title": "2ª Tirada de limonada",
+            "organizer": "Peña Drinkkings, Peña Deskontrol, Peña Enigma-Druidas, Peña Minerva, Peña Bé-Bé, Peña Los Mochilones, Peña El Atracón y Peña Nove-Nove.",
+            "organicers": [
+                {
+                    "id": 16
+                },
+                {
+                    "id": 23
+                },
+                {
+                    "id": 15
+                },
+                {
+                    "id": 22
+                },
+                {
+                    "id": 14
+                },
+                {
+                    "id": 9
+                },
+                {
+                    "id": 24
+                },
+                {
+                    "id": 11
+                }
+            ],
+            "place": "Inicio en Peña Los Drinkkings (Calle Vacceos)",
+            "description": "Limonada para todos los públicos amenizada con Charanga Los Chiguitos (Lado del Ayuntamiento). Ruta por las peñas colaboradoras degustando limonadas: Peña Drinkkings, Peña Deskontrol, Peña Enigma-Druidas, Peña Minerva, Peña Bé-Bé, Peña Los Mochilones, Peña El Atracón y Peña Nove-Nove."
+        },
+        {
+            "id": "43",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "21:00",
+            "title": "Actuación de malabares con Roxy",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Boulevard, calle Gloria Fuertes",
+            "description": "Actuación de malabares con Roxy."
+        },
+        {
+            "id": "44",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "22:00",
+            "title": "Actuación de Sara Bureba",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Actuación de Sara Bureba."
+        },
+        {
+            "id": "45",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "00:00",
+            "title": "Orquesta Garden",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Orquesta Garden. En el patio del Instituto Viejo. A continuación, discomóvil con Josu Prieto."
+        },
+        {
+            "id": "46",
+            "day": "Domingo",
+            "date": "15/11/2026",
+            "time": "04:00",
+            "title": "Discomóvil: Josu Prieto. (horario aproximado)",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Al finalizar la orquesta, discomóvil con Josu Prieto."
+        },
+        {
+            "id": "47",
+            "day": "Lunes",
+            "date": "16/11/2026",
+            "time": "10:00",
+            "title": "Jornada de puertas abiertas: Estación de Pequeña",
+            "organizer": "AVENFER",
+            "organicers": [
+                {
+                    "id": 27
+                }
+            ],
+            "place": "Estación de Pequeña, avda. Castilla y León",
+            "description": "Jornada de puertas abiertas \"Estación de Pequeña\", \"La Verraco\", \"Vagones históricos\" y \"Museo del Ferrocarril\". Organiza AVENFER."
+        },
+        {
+            "id": "48",
+            "day": "Lunes",
+            "date": "16/11/2026",
+            "time": "13:30",
+            "title": "Matinée : Los Peret",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Plaza Puerta del Sol",
+            "description": "Última Matinée con Los Peret."
+        },
+        {
+            "id": "49",
+            "day": "Lunes",
+            "date": "16/11/2026",
+            "time": "18:00",
+            "title": "Encierro ecológico infantil",
+            "organizer": "Peña El Gato Negro",
+            "organicers": [
+                {
+                    "id": 19
+                }
+            ],
+            "place": "Plaza del Ayuntamiento",
+            "description": "Encierro ecológico infantil en memoria de César Hernández \"Chaleco\". Niños/as hasta 12 años."
+        },
+        {
+            "id": "50",
+            "day": "Lunes",
+            "date": "16/11/2026",
+            "time": "18:00",
+            "title": "Juego de bolos femenino",
+            "organizer": "Concejalía de Deportes",
+            "organicers": [
+                {
+                    "id": 4
+                }
+            ],
+            "place": "Bolera municipal, calle Pablo Picasso",
+            "description": "Juego de bolos femenino en la bolera municipal de la calle Pablo Picasso."
+        },
+        {
+            "id": "51",
+            "day": "Lunes",
+            "date": "16/11/2026",
+            "time": "19:00",
+            "title": "Gran torneo de tirada de tito de aceituna",
+            "organizer": "Peña Los Mochilones",
+            "organicers": [
+                {
+                    "id": 9
+                }
+            ],
+            "place": "Calle Barrigón",
+            "description": "Inscripciones en la propia peña antes del comienzo. ¡No te lo pierdas!."
+        },
+        {
+            "id": "52",
+            "day": "Lunes",
+            "date": "16/11/2026",
+            "time": "20:00",
+            "title": "Tardeo en el Parque de Las Flores",
+            "organizer": "Consejo de Peñas",
+            "organicers": [
+                {
+                    "id": 2
+                }
+            ],
+            "place": "Parque de Las Flores",
+            "description": "Tardeo en el Parque de Las Flores para todos los publicos."
+        },
+        {
+            "id": "53",
+            "day": "Lunes",
+            "date": "16/11/2026",
+            "time": "22:00",
+            "title": "Tributo de voces femeninas: Lady Abril",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Tributo de voces femeninas \"Lady Abril\"."
+        }
+    ]
+}
