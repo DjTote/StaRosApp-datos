@@ -902,6 +902,21 @@
             ],
             "place": "Patio del Instituto Viejo",
             "description": "Tributo de voces femeninas \"Lady Abril\"."
-        }
+        },
+        {
+            "id": "55",
+            "day": "Lunes",
+            "date": "16/11/2026",
+            "time": "23:00",
+            "title": "Cuarteto de cuerda",
+            "organizer": "Ayuntamiento de Venta de Baños",
+            "organicers": [
+                {
+                    "id": 1
+                }
+            ],
+            "place": "Patio del Instituto Viejo",
+            "description": "Tributo de voces femeninas \"Lady Abril\"."
+        }        
     ]
 }
