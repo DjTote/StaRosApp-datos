@@ -4,9 +4,6 @@ Programa de actividades y organizaciones (peñas, asociaciones…) de las fiesta
 Santa Rosa de Lima de Venta de Baños, en el formato que usa la app **StaRosApp**.
 StaRosApp es una app personal y **no oficial**, sin relación con el Ayuntamiento.
 
-> **Estado: en preparación.** La versión de la app publicada en Google Play todavía no
-> lee estos ficheros. Los datos actuales son de prueba.
-
 Este repositorio es **público**: cualquiera puede ver su contenido y su historial.
 
 ## Direcciones
